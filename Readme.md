@@ -2,30 +2,9 @@
 
 Docker images for master based on Jenkins Swarm Plugin.
 
-This images is generic, thus you can obviously re-use it within
-your non-related EEA projects.
-
-
-## Supported tags and respective Dockerfile links
-
-- [`:latest` (*Dockerfile*)](https://github.com/eea/eea.docker.jenkins.master/blob/master/Dockerfile) (default)
-- [`:2.222.1` (*Dockerfile*)](https://github.com/eea/eea.docker.jenkins.master/blob/2.222.1/Dockerfile)
-
-See [older versions](https://github.com/eea/eea.docker.jenkins.master/releases)
-
-## Changes
-
- - [CHANGELOG.md](https://github.com/eea/eea.docker.jenkins.master/blob/master/CHANGELOG.md)
-
-
-## Base docker image
-
- - [hub.docker.com](https://registry.hub.docker.com/u/eeacms/jenkins-master)
-
-
 ## Source code
 
-  - [github.com](http://github.com/eea/eea.docker.jenkins.master)
+  - [github.com](http://github.com/swenson11/jenkinsmaster)
 
 
 ## Installation
